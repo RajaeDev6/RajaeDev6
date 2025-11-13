@@ -1,5 +1,14 @@
 ## Hi there 👋
+I'm Rajae, I Cybersecurity Student and a Software development enthusiast based in Jamaica
+I build websites, mobile apps and command line tools, just whatever idea i have
+I Usually get a new idea like once a day. haha
+Whenever i am building my choice of tooling would be react, typescript for websites flask for backend stuffs, react native for mobile, golang, and c for command line
+I haven't really made alot of my projects public as yet but i will soon
 
+*Fun Fact*
+ - I love minimalistic things
+ - I watch alot of anime but dont have a favourite
+ - Hobbies: gaming, watching football, coding or doing CTF
 <!--
 **RajaeDev6/RajaeDev6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
