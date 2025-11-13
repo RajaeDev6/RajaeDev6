@@ -1,8 +1,12 @@
 ## Hi there 👋
 I'm Rajae, I Cybersecurity Student and a Software development enthusiast based in Jamaica
+
 I build websites, mobile apps and command line tools, just whatever idea i have
+
 I Usually get a new idea like once a day. haha
+
 Whenever i am building my choice of tooling would be react, typescript for websites flask for backend stuffs, react native for mobile, golang, and c for command line
+
 I haven't really made alot of my projects public as yet but i will soon
 
 *Fun Fact*
