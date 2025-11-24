@@ -4,7 +4,7 @@ I'm Rajae, I Cybersecurity Student and a Software development enthusiast based i
 
 I build websites, mobile apps and command line tools, just whatever idea i have
 
-I Usually get a new idea like once a day. haha
+I Usually get a new idea like once a day.
 
 Whenever i am building my choice of tooling would be react, typescript for websites flask for backend stuffs, react native for mobile, golang, and c for command line
 
