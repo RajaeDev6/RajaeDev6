@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-I'm Rajae, I Cybersecurity Student, and a lover for Software development based in Jamaica.
+I'm Rajae, I Cybersecurity Student, and a lover for backend engineering based in Jamaica.
 
-I build websites, mobile apps and command line tools, just whatever idea i have
+I enjoy building small, focused tools that strengthening my skills in security, automation and backend development
 
-I Usually get a new idea like once a day.
-
-Whenever i am building my choice of tooling would be react, typescript for websites flask for backend stuffs, react native for mobile, golang, and c for command line
-
-I haven't really made alot of my projects public as yet but i will soon. 
-
-Right now my focus is on learning and contributing to open source software's.
+Right now, i'm learning more about system internals, contributing to open source security tooling, and building out personal projects that will help me group as an engineer
 
 *Fun Fact*
  - I love minimalistic things
