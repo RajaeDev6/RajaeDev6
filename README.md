@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rajae, A Cybersecurity Student, who enjoys backend engineering based in Jamaica.
+I'm Rajae, A Cybersecurity Student based in jamaica, who enjoys security and backend engineering.
 
 I enjoy building small, focused tools that strengthening my skills in security, automation and backend development
 
